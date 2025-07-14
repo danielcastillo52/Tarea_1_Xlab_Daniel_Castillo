@@ -1,0 +1,35 @@
+Results:
+	Enter the dimensions for the rectangle:
+	Width: 2 
+	Height: 3
+	Enter the radius for the circle:
+	Radius: 0
+	Invalid number, please enter a positive value.
+	Radius: 3.8
+	Enter the dimensions for the triangle:
+	Base: 8
+	Height: 7
+	Enter the other two sides of the triangle (side A and sideC):
+	Side A: 5
+	Side C: 6
+	Color for rectangle: blue
+	Color for circle: red
+	Color for triangle: yellow
+	[ 33 ]RECTANGLE:
+	< A > [ 33 ]6.000000
+	< P > [ 33 ]10.000000
+	--> [ 33 ]Width: 2.000000
+	--> [ 33 ]Height: 3.000000
+	--> [ 33 ]Color: blue
+	[ 33 ]CIRCLE:
+	< A > [ 33 ]45.364598
+	< P > [ 33 ]23.876104
+	--> [ 33 ]Radius: 3.800000
+	--> [ 33 ]Color: red
+	[ 33 ]TRIANGLE:
+	< A > [ 33 ]28.000000
+	< P > [ 33 ]19.000000
+	--> [ 33 ]Sides: 5.000000, 8.000000, 6.000000
+	--> [ 33 ]Base: 7.000000
+	--> [ 33 ]Height: 8.000000
+	--> [ 33 ]COlor: yellow
